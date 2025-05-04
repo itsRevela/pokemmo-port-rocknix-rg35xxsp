@@ -1,4 +1,4 @@
-# PokeMMO Port for PortMaster on Rocknix with RG35XXSP
+# PokeMMO Port for PortMaster on Rocknix/Knulli with RG35XXSP
 
 PokeMMO is a fan-made multiplayer online game that brings together multiple generations of Pokémon in a single MMO experience.
 
