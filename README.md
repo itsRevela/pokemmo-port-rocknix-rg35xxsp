@@ -1,6 +1,7 @@
 # PokeMMO Port for PortMaster on Rocknix/Knulli with RG35XXSP
 
 PokeMMO is a fan-made multiplayer online game that brings together multiple generations of Pokémon in a single MMO experience.
+This fork provides some support for the RG35XXSP and similar devices that do not have analog controls. If you have a question or issue not related to controls, please reach out on the main fork https://github.com/lowlevel-1989/pokemmo-port
 
 ---
 
