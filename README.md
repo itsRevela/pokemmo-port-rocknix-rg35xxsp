@@ -26,15 +26,6 @@ PokeMMO is a fan-made multiplayer online game that brings together multiple gene
 - [x] Knulli
 ~~~
 
-### Assigning Panfrost in Rocknix
-
-To configure Rocknix to use the **Panfrost** driver, first ensure your device supports it and that it’s not the only available option. For example, the **Powkiddy RGB30** supports both **libMali (GLES 3.2)** and **Panfrost (GL 3.1/GLES 3.1)**, as shown [here](https://rocknix.org/devices/powkiddy/rgb30/#software).
-
-To switch to the Panfrost driver:
-![step 1](docs/1.jpg)
-![step 2](docs/2.jpg)
-
-
 ### 1. Install/Update the Port
 
 Download pokemmo.zip Place the `.zip` into:  
@@ -82,76 +73,34 @@ client.roms.nds3=roms/pokemon_heartgold.nds
 
 ---
 
+🎮 HOW TO USE THE VIRTUAL KEYBOARD & MOUSE 🎮
 
-### 🎮 Login Without Keyboard Input
+🖱️ MOUSE MODE:
+• Hold [L1] to control the mouse
+• Use the D-Pad to move the cursor
+• Press [R1] for left-click
+• Press [R2] for right-click
+• Release [L1] to exit mouse mode
 
-If your device does not have a keyboard, you can try one of the following methods to log in:
+⌨️ TYPING MODE:
+• Enter typing mode: Hold [L1], tap [L2], then release both
+• Use D-Pad Up/Down to scroll through letters or numbers
+• Press [B] or [Y] to insert a character
+• Press [X] or [Y] to insert a space
+• Press [A] to delete (backspace)
+• Press [Start] to finish typing and exit
 
-#### 🔧 Option 1: PokeMMO/credentials.txt
+🔤 SWITCH CHARACTERS:
+• Press [X] to switch between lowercase (abc) and uppercase (ABC)
+• Press [Back] to switch between letters (abc/ABC) and numbers (123)
 
-Edit the file PokeMMO/credentials.txt with your login credentials.
-
-#### 🔧 Option 2: Connect a Keyboard for First Login
-
-Temporarily connect a physical keyboard (USB or Bluetooth), log in as usual, and make sure to check the **"Remember Me"** option.
-
-#### 📝 Option 3: Type Password in Username Field (thanks ddrsoul)
-
-Type your password in the **username** field, then **copy and paste** it into the password field. This allows you to use system copy/paste functions even without a keyboard.
-
-The game will now automatically log in when launched on PortMaster-compatible devices.
-
----
-
-### Controls gptokeyb2
-
-| Button | Action |
-|--|--| 
-|A| A|
-|B| B|
-|Y| Hotkey 1 |
-|X| Hotkey 2  |
-|R2| Hotkey 3 |
-|L3| Hotkey 4 |
-|R3| Hotkey 5 |
-|L2| mode dpad mouse |
-|R1| mouse left |
-|L1| mouse right |
-|start| menu |
-|select| mode text (on) |
-|start| mode text/mouse (off) |
-
-To use the virtual keyboard mode with gptokeyb2, press the Select button once to enter letter mode.
-Press Select again to switch to number mode.
-To finish and exit keyboard mode, press the Start button.
-
-### Controls gptokeyb
-
-| Button | Action |
-|--|--| 
-|A| A|
-|B| B|
-|Y| Hotkey 1 |
-|X| Hotkey 2 |
-|R2| Hotkey 3 |
-|L3| Hotkey 4 |
-|R3| Hotkey 5 |
-|L2| Hotkey 6|
-|R1| mouse left |
-|L1| mouse right |
-|start| menu |
+✅ EXIT TYPING:
+• Just press [Start] once — works from any typing mode
 
 #### Controller Support Status
 
 Only the version with `gptokeyb2` supports the virtual keyboard.
 
----
-
-### Known Bug
-
-#### Calibrate cursor
-
-![cursor](docs/3.gif)
 ---
 
 ## Thanks
