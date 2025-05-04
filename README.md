@@ -6,6 +6,8 @@ PokeMMO is a fan-made multiplayer online game that brings together multiple gene
 
 ## 🛠 Installation Instructions
 
+https://youtu.be/hSXAO46nL8w
+
 ### CFW Tests:
 
 |                        | 480x320 | 640x480 | 720x720 | Higher resolutions |
