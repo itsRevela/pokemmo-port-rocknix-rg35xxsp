@@ -6,7 +6,8 @@ PokeMMO is a fan-made multiplayer online game that brings together multiple gene
 
 ## 🛠 Installation Instructions
 
-https://youtu.be/hSXAO46nL8w
+[![Installation Video for RG35XXSP](https://img.youtube.com/vi/hSXAO46nL8w/0.jpg)](https://youtu.be/hSXAO46nL8w)
+
 
 ### CFW Tests:
 
